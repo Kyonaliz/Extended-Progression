@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "extprog:steel_ingot"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "extprog:steel_block"
+  }
+}

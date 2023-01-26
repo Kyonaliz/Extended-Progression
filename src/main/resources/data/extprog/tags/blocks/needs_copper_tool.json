@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:iron_ore",
+    "minecraft:iron_block",
+    "minecraft:gold_ore",
+    "minecraft:gold_block",
+    "minecraft:redstone_ore",
+    "minecraft:redstone_block",
+    "minecraft:emerald_ore",
+    "minecraft:emerald_block",
+    "minecraft:nether_gold_ore"
+  ]
+}

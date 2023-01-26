@@ -1,0 +1,28 @@
+{
+  "block.extprog.steel_block": "Steel Block",
+
+  "item.extprog.steel_ingot": "Steel Ingot",
+  "item.extprog.copper_nugget": "Copper Nugget",
+  "item.extprog.plant_fiber": "Plant Fiber",
+  "item.extprog.plant_string": "Plant String",
+
+  "item.extprog.flint_axe": "Flint Hatchet",
+  "item.extprog.flint_hoe": "Flint Hoe",
+  "item.extprog.flint_pickaxe": "Flint Pickaxe",
+  "item.extprog.flint_shovel": "Flint Shovel",
+  "item.extprog.flint_sword": "Macuahuitl",
+
+  "item.extprog.copper_axe": "Copper Axe",
+  "item.extprog.copper_hoe": "Copper Hoe",
+  "item.extprog.copper_pickaxe": "Copper Pickaxe",
+  "item.extprog.copper_shovel": "Copper Shovel",
+  "item.extprog.copper_sword": "Copper Sword",
+
+  "item.extprog.steel_axe": "Steel Axe",
+  "item.extprog.steel_hoe": "Steel Hoe",
+  "item.extprog.steel_pickaxe": "Steel Pickaxe",
+  "item.extprog.steel_shovel": "Steel Shovel",
+  "item.extprog.steel_sword": "Steel Sword",
+
+  "itemGroup.extprogtab": "Extended Progression"
+}

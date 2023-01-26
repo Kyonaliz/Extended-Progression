@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:calcite",
+    "minecraft:tuff",
+    "minecraft:amethyst_block",
+    "minecraft:coal_ore",
+    "minecraft:coal_block",
+    "minecraft:copper_ore",
+    "minecraft:copper_block",
+    "minecraft:basalt",
+    "minecraft:nether_quarts_ore"
+  ]
+}
